@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/pep/static/css/main.f9d889b1.css",
+    "main.js": "/pep/static/js/main.ba5e24f8.js",
+    "static/media/w81.png": "/pep/static/media/w81.29c72409051115ac45b8.png",
+    "static/media/w72.png": "/pep/static/media/w72.56fcae1ca79bf93bea94.png",
+    "static/media/sketch3.png": "/pep/static/media/sketch3.aed36d3dabaf69430b73.png",
+    "static/media/w82.png": "/pep/static/media/w82.1b611bdf4950c6c09e82.png",
+    "static/media/w63.png": "/pep/static/media/w63.a4439d067e6dbb144b66.png",
+    "static/media/r1.png": "/pep/static/media/r1.4f6e357dfca6078116cd.png",
+    "static/media/w83.png": "/pep/static/media/w83.4d5aecce82a43e6c2673.png",
+    "static/media/ard3.png": "/pep/static/media/ard3.68e4c2b23c97b602d2ca.png",
+    "static/media/ard2.png": "/pep/static/media/ard2.6da18bdc7b59213b53e1.png",
+    "static/media/sketch2.png": "/pep/static/media/sketch2.ee1c38b18c1f55bde44f.png",
+    "static/media/r2.png": "/pep/static/media/r2.3f6d70ad9e854579ddea.png",
+    "static/media/r3.png": "/pep/static/media/r3.0e6d605bf63cc1bd50e2.png",
+    "static/media/w71.png": "/pep/static/media/w71.99e4f560585ea486d803.png",
+    "static/media/w61.png": "/pep/static/media/w61.9ea9fb182b71ab864d30.png",
+    "static/media/sketch1.png": "/pep/static/media/sketch1.176d02e65cddf8c9865a.png",
+    "static/media/pic.jpeg": "/pep/static/media/pic.e8fbca6f056e8ca93db7.jpeg",
+    "static/media/w84.png": "/pep/static/media/w84.82e616d88c25785a22ff.png",
+    "static/media/gtwg.png": "/pep/static/media/gtwg.a8be84cace2f68a3c122.png",
+    "static/media/gtwg1.png": "/pep/static/media/gtwg1.c42874fe88caa86b25df.png",
+    "static/media/ard1.png": "/pep/static/media/ard1.ffe9352808960d3e6196.png",
+    "static/media/me.jpg": "/pep/static/media/me.be7fa404c341ce760298.jpg",
+    "static/media/w62.png": "/pep/static/media/w62.2d95165b4d2a734f8658.png",
+    "static/media/friends.jpeg": "/pep/static/media/friends.bf4072e8a8ac23a42a9d.jpeg",
+    "static/media/flight.jpeg": "/pep/static/media/flight.585dedf3923dee69738c.jpeg",
+    "static/media/w6.png": "/pep/static/media/w6.f0ba8557b0a14e2bb7d0.png",
+    "static/media/logo.png": "/pep/static/media/logo.a600f1e85d3ca6889ba2.png",
+    "index.html": "/pep/index.html",
+    "main.f9d889b1.css.map": "/pep/static/css/main.f9d889b1.css.map",
+    "main.ba5e24f8.js.map": "/pep/static/js/main.ba5e24f8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f9d889b1.css",
+    "static/js/main.ba5e24f8.js"
+  ]
+}
